@@ -1,0 +1,8 @@
+{
+  "name": "abacus",
+  "description": "Abacus",
+  "main": "index.js",
+  "dependencies": {
+    "tabris": "^1.5.0"
+  }
+}

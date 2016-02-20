@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="abacus-train.app" version="1.0.0">
+  <name>A-gen</name>
+  <description>
+    Abacus number generator
+  </description>
+  <author email="kumar.akhmadiyev@gmail.com" href="https://tabrisjs.com">
+    Tabris.js Team
+  </author>
+</widget>
